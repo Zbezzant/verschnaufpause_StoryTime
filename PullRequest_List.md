@@ -1,1 +1,2 @@
 Ernest Clark: https://github.com/DeDandeMan/316-Taktgeber-TeamExercise/pull/4
+Jacob Dirks: https://github.com/spencerM20/Team-Exercise-mittagspause-316/pull/4
